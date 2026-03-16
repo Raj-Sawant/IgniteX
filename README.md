@@ -1,7 +1,5 @@
 Sim2TerrainAI: Off-Road Semantic Segmentation
 
-![Sim2TerrainAI Banner](sim2terrain_banner_1773491663509.png)
-
 ## 🚀 Overview
 
 **Sim2TerrainAI** is an advanced AI-powered platform for **Off-Road Semantic Segmentation**, designed to enable autonomous systems to understand and navigate complex natural environments. Leveraging state-of-the-art Deep Learning models, the system processes synthetic terrain data to provide high-fidelity scene understanding.
@@ -36,7 +34,7 @@ The system recognizes 10 distinct environmental classes:
 | 7100 | Landscape | #e9c46a | General terrain/dirt |
 | 10000 | Sky | #48cae4 | Background/Horizon |
 
-## ⚙️ Installation & Setup
+## ⚙️ Installation & Setup  (*SIMULATION* FOR MODEL SEE JUPYTER NOTEBOOK)
 
 ### 1. Backend Setup
 The backend serves the AI model via a FastAPI interface.
